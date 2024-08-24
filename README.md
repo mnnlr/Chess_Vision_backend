@@ -27,8 +27,8 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/mnnlr/Chess_Vision_backend.git
+   cd Chess_Vision_backend
    ```
 
 2. **Install required Python packages:**
@@ -44,6 +44,8 @@ Ensure you have the following installed:
 3. **Download the YOLOv7 model:**
 
    Ensure that the `best.pt` file is located in the `models/` directory. If you don't have the model file, download it from your source and place it in the `models/` folder.
+   You can get model at https://drive.google.com/file/d/1S3UWxa_RVmdlU1KZTBwma1I5XJQFs42d/view?usp=sharing
+   paste the best.pt file in models directory
 
 ## Running the Application
 
